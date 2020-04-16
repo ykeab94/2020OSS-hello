@@ -1,4 +1,5 @@
-#object files !! 
+#object files
+#
 *.o
 hello
 hello_debu
